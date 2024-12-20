@@ -6,7 +6,7 @@ Open access version of RES.Trade System.
 
 # Reference
 Please cite the following article if you use RES.Trade System:
-[https://traderes.eu/wp-content/uploads/2024/03/6-TradeRES-User-Guide-RESTrade_LNEG_vf.pdf](https://doi.org/10.3390/en17246212)
+[https://doi.org/10.3390/en17246212](https://doi.org/10.3390/en17246212)
 
 # Tutorials
 Overview: 
