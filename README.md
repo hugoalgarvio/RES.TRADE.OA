@@ -28,3 +28,6 @@ RES.Trade uses Java, to run RES.Trade, use the last versions of the JDK (prefera
 # Status
 RES.Trade is continuously evolving, some of the previous support files may be outdated.
 
+# Funding
+This work has received funding from the EU Horizon 2020 research and innovation program under project TradeRES (grant agreement No 864276).
+
